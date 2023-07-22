@@ -1,6 +1,6 @@
 # Parallel Reinforcement Learning
 
-See the paper for this project in `report.pdf` or the presentation in `presentation.pdf`` for the clearest, most complete information and results.
+See the paper for this project in `report.pdf` or the presentation in `presentation.pdf` for the clearest, most complete information and results.
 
 This repository contains a project using OpenMp and MPI for a parallelized reinforcement learning algorithm that learns faster than the standard. This speed improvement and parallelization is done via a levelled history (detailed in `report.pdf` or `presentation.pdf`). This project was completed by Sam DePaolo, Michael Kielstra, Manqing Liu, and Xiaohan Wu as the final research project in CS205 (High Performance Computing) and builds upon work introduced by Kretchmar.
 
