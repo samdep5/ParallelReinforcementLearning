@@ -1,0 +1,41 @@
+These results are from the modified openmp time program in the time folder.
+They are a result of running openmpjob.sh for under "run coming up" and then "openmplarger.sh under "Next run."
+Reward/second   Correct Action/second   Total Time
+
+Run Coming up: 
+
+221650	0.0187657	48.1792
+
+115993	0.0188793	48.0157
+
+58344.2	0.0124082	47.9008
+
+31413.3	0.0189969	47.827
+
+15857.1	0.0188804	47.8582
+
+8080.02	0.0190502	47.7794
+
+4080.09	0.0188438	47.8157
+
+2034.88	0.0188274	48.0139
+
+1003.49	0.0181338	49.8365
+
+521.149	0.000501232	48.7385
+
+255.885	0.0185449	48.2729
+
+135.268	0.0178181	47.927
+
+78.6547	0.0155895	47.8028
+
+45.7573	0.0158627	47.7178
+
+30.9941	0.0188236	47.7119
+
+Next run (larger) :: 
+
+2.93882e+07	0.00014684	6196.6
+
+1.48534e+07	0.000147854	6155.96
